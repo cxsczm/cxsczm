@@ -6,7 +6,7 @@ As a Marketing and Sustainability Designer, I am passionate about creating eco-f
 collaborating with communities. My expertise ranges from digital design, branding, and user-centered design.
 
 <p align="center">
- <a href="https://cassandramiles.co.uk" target="blank">
+ <a href="https://www.cassandramiles.co.uk" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/cassandrazoemiles" target="_blank">
@@ -35,5 +35,5 @@ University of South Wales
 Swansea Metropolitan Universty
 Swansea University
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/cassandrazoemiles/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cassandrazoemiles/)  
 
